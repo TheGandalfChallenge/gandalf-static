@@ -110,7 +110,7 @@ body { background:#1b1a1f url('../img/bg.jpg') repeat-y center top; color:#a6a6a
 .bar a:hover { color:#fff; }
 li.donate { float:right; }
 
-.hero {  }
+.hero { padding-bottom:20px; }
 h1 { background-image:url('../img/title.png'); width:524px; height:230px; margin:42px 0 30px 0; }
 h2 { font:normal 30px 'zitzregular'; }
 
@@ -119,3 +119,15 @@ h2 { font:normal 30px 'zitzregular'; }
 .photos { position:relative; float:right; width:517px; height:474px; }
 .photos img { position: absolute; }
 .photo { left:50px; top:30px; }
+
+.players ul { margin:0; padding:0; }
+.player { float:left; padding-bottom:40px; text-align:center; }
+.player p { margin:0; }
+.player a { color:#a6a6a6; text-decoration:none; }
+.player-frame { background-repeat:no-repeat; width:217px; height:300px; }
+.player-frame img { margin:41px 32px; }
+.frame1 { background-image:url('../img/frame1.png'); }
+.frame2 { background-image:url('../img/frame2.png'); }
+.frame3 { background-image:url('../img/frame3.png'); }
+.frame4 { background-image:url('../img/frame4.png'); }
+.frame5 { background-image:url('../img/frame5.png'); }
